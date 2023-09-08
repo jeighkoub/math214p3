@@ -7,8 +7,6 @@
 
 
 int main() {
-
     createCSV();
-
     return 0;
 }
